@@ -1,0 +1,1 @@
+So far I have learnt some git basics such as git clone, git add, git commit etc. Also, I have learnt forking a repository and so on.
